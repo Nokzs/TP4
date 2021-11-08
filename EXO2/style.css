@@ -1,0 +1,14 @@
+#lorem{
+    border-style: double;
+    border-radius: 2px;
+    text-transform: uppercase;
+    text-indent: 10px;
+}
+#scdP::first-letter{
+    color: red;
+    font-size: 50px;
+}
+
+#scdP::first-line{
+    text-transform: uppercase;
+}

@@ -1,0 +1,22 @@
+
+body{
+    background-image: url(./bdw-image-fonds-ecran-1-780x430.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+img,.p1{
+    position: absolute;
+    left: 0;
+    top: 0;
+    position: fixed;
+}
+
+img{
+    z-index: 0;
+}
+.p1{
+    z-index: 1;
+}

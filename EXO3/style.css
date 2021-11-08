@@ -1,0 +1,13 @@
+a{
+    color: blue;
+    font-size: italic;
+}
+
+a:hover{
+    font-weight: bold;
+    color: blue;
+}
+
+a:visited{
+    color:green;
+}

@@ -1,0 +1,20 @@
+.bleu-clair{
+    background-color: lightblue;
+}
+
+table, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.bleu{
+    background-color: blue;
+}
+
+.bleu-clair:hover,
+.bleu:hover
+                    {
+                        font-weight: bold;
+                        background-color: white;
+                    }
+
